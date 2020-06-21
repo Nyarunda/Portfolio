@@ -1,0 +1,40 @@
+.Col {
+  padding: 0;
+}
+
+.e_card {
+  margin: 0px;
+}
+
+.e_card_image {
+  border-radius: 10px;
+  box-shadow: 0 0 3px 1px #ccc;
+}
+
+.e_card_body {
+  margin-top: 10px;
+  min-height: 100px;
+}
+.e_card_title {
+  font-size: 24px;
+  margin: opx;
+}
+
+.btn {
+  background-color: black;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 123123px;
+  border: 1px solid transparent;
+  display: inline-block;
+  padding: 12px 24px;
+  transition-property: background-color, border-color;
+  transition-duration: 0.3s;
+}
+.btn:hover {
+  background-color: #e10000;
+  border-color: #e10000;
+}

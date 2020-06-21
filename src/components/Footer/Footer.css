@@ -1,0 +1,11 @@
+.Footer {
+  margin-top: 5px;
+}
+.Raw {
+  padding: 3px;
+  justify-content: space-between;
+  border-top: 1px solid #eaeaea;
+}
+.Col {
+  text-align: center;
+}
